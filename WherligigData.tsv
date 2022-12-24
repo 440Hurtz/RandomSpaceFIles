@@ -1,4 +1,4 @@
-Name	Eq. Radius (km)	Area (m^2)	Mass (kg)	GM (m^3/s^2)	ASL Gravity (g)	Escape Velocity (m/s)	Rotation Period	SOI (km)	Atmosphere (true/false)	Breathable (true/false)	Atmos. Height (m)	Atmos. Pressure (atm)	ASL Temperature (K)	Atmosphere Composition
+Name	Eq. Radius (km)	Area (m^2)	Mass (kg)	GM (m^3/s^2)	ASL Gravity (g)	Escape Velocity (m/s)	Rotation Period	SOI (km)	Atmosphere	Breathable	Atmos. Height (m)	Atmos. Pressure (atm)	ASL Temperature (K)	Atmosphere Composition
 Kaywell	89700	1.01E+17	3.38E+28	2.26E+18	28.58924	224270.8	7.066666667	NULL	TRUE	FALSE	600000	0.15791	5840	NULL
 Limnel	40400	2.05E+16	1.05E+28	7.04E+17	43.95826	186632.1	7.066666667	103950	TRUE	FALSE	600000	0.15791	5840	NULL
 Shol	13703	2.36E+15	2.00E+26	1.33E+16	7.24	44111.2	51.35	160847	TRUE	FALSE	1165000	15	1477	Hydrogen 83.8%, Helium 12.12%, Sodium 2.3%, Potassium 1.2%, Carbon Monoxide 0.4%, Silicon Dioxide 0.06%, Iron 0.02%
